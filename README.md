@@ -2,7 +2,7 @@
 - 👀 I’m interested in God, family, coding and cycling  
 - 🌱 I’m currently learning web programming on PHP 
 - 💞️ I’m looking to collaborate on web projects backend
-- 📫 How to reach me: ruslan.baptist@yandex.ru, [a link](vk.com/ruslan.lekayn)
+- 📫 How to reach me: ruslan.baptist@yandex.ru, [vk](vk.com/ruslan.lekayn)
 
 
 <!---
